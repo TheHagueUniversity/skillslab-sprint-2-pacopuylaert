@@ -1,0 +1,238 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    padding-left: 38%;
+    padding-right: 38%;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover:not(.active) {
+    background-color: #9A9A9A;
+
+}
+
+.active {
+    background-color: #0080FF;
+}
+
+body {
+    background-image: url("../images/backgroundImage.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: 'Nunito', sans-serif;
+    color: #ededed;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+
+}
+
+.name {
+    text-align: center;
+    font-size: 400%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Yantramanav', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.herodiv {
+    margin: 40px 20% 40px 20%;
+    background-color: #ededed;
+    padding: 20px 70px 20px 70px;
+    color: #424242;
+    
+}
+
+.logoHeader {
+    height: 100px;
+    width: 100px;
+    margin-left: 45%;
+    
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+}
+
+.couch {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: scale(0.8, 0.8);
+
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #333;
+    margin: 0 0 0 0;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.footerLink {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #0080FF;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+
+
+.h2 {
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+
+
+
+}
+
+
+.girlPicture{
+    width: 396px;
+    height: 264px;
+    display: inline-block;
+    margin: 10px;
+
+
+}
+
+.centeredImages{
+    display: block;
+    margin: auto;
+    width: 60%;
+    padding-left: 70px;
+
+
+}
+
+.ulInfo{
+    color: black
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.info{
+    display: block;
+    
+}
+
+.halfHerodiv{
+    width: 35%;
+    display: inline-block;
+    padding-left: 10%;
+}
+.fb{
+width: 50px;
+height: 50px;
+display: inline-block;
+padding-left: 50%;
+padding-right: 10%;
+
+}
+
+.insta{
+width: 50px;
+height: 50px;
+display: inline-block;
+}
+
+a img:hover {
+    opacity: 0.5;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+
+/*.video {
+    margin-left:31%;
+    
+}*/
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 35%;
+}
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 500px;
+}
+
+
+.container2 {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 25%;
+}
+.video2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 400px;
+}
+.form{
+    margin-left:35%; 
+    margin-right:35%;
+
+}
+
+#contact_form {
+    margin-left:40%;
+    font-family: 'Nunito', sans-serif;
+
+
+
+
+}
+
+.p {
+    text-align: center;
+}
+
+.maps{
+    margin-left: 30%;
+}

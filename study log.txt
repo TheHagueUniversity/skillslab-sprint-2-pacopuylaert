@@ -1,0 +1,42 @@
+Study material:
+
+Lynda.com 
+
+HTML essential training.
+https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html  
+
+(From here I learned the very basics. The main tags and how to structure the page)
+
+YouTube
+
+HTML and CSS Tutorial for Beginners | The Ultimate guide to learning HTML and CSS
+https://www.youtube.com/watch?v=y3UH2gAhwPI 
+
+Codeacademy
+
+https://www.codecademy.com/ 
+
+I did the first exercises to start getting a firmer grasp on topics. This helped me to gain confidence in applying the main functions of html.
+
+
+(From here I took notes about every single part of the process. Started understanding how to apply some styles to the page)
+
+
+Classmate:
+Michal Maciejewski
+
+(Michael took the time to explain me how to structure effectively the folder in order to make the code work. Furthermore, he helped me clarifying how I wanted my website to look. He expalined the order in the thinking process and the way to approach coding, which in his opinion, is constant "problem solving" , use of logics, and googling to gain more knowledge. I was working on my website and had him aside explaining how to do one specific thing that I could repeat through all the website and really understand. Michael tought me how to connect the html files to the css and explained how each element on the page should be positioned to be have a visually appealing website.)
+
+
+I learned the basics of HTML and CSS. It took a very long time to start "connecting the dots" of what I was learning. Even though I really was trying to whatch tutorials and make sense out of them, without the help of my classmate Michal I would have not been able to learn the basics I now retain to have. The learning process has been:
+
+Overall 12 hours of tutorials
+Overall 20 hours trying things without understanding anything
+Overall 20 hours of coding with guidance from classmate when needed. 
+Overall 2 hours asking questions about "obvious" topics in the field of coding that for me where everything but obvious. 
+
+Initially, the approach to the process was based on watching tutorials. I honestly started more tutorials than the ones cited above. However, I stopped the process because of the feeling of not being capable of repeating it myself. In two terms time I got the luck to ask more skilled people how they approach the entire process. And that has demonstrated to be the best way to learn. By phisically watching others doing and by asking hem how and why. 
+
+I consider my self to have been annoying to my classmates in more situations but I really believe that is the best way to learn. I suggest to give lectures where students are hands on from the beginning with calm guidance from the professors. I was not able to ask questions during classes because I did not know what to ask or even how to ask. Even though that I understand that professors gave availability to students and appreciate that. 
+
+Learning coding is a long process and I am just t the beginning of it. Now I am able to understand tutorials and I will go on with them. 
